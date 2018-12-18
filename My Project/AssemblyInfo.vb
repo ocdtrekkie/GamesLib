@@ -10,9 +10,9 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("GamesLib")>
 <Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyCompany("Jacob Weisz")>
 <Assembly: AssemblyProduct("GamesLib")>
-<Assembly: AssemblyCopyright("Copyright ©  2018")>
+<Assembly: AssemblyCopyright("Copyright ©  2018 Jacob Weisz")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>

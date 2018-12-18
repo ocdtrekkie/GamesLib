@@ -53,7 +53,7 @@ Module Module1
                     My.Settings.SteamID = ""
                     My.Settings.SteamKey = ""
                 Case 2
-                    strSteamOwnedGames = webClient.DownloadString("http://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=" & My.Settings.SteamKey & "&steamid=" & My.Settings.SteamID & "&include_appinfo=1&include_played_free_games=1&format=xml")
+                    strSteamOwnedGames = webClient.DownloadString("https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=" & My.Settings.SteamKey & "&steamid=" & My.Settings.SteamID & "&include_appinfo=1&include_played_free_games=1&format=xml")
 
                     Console.WriteLine("Saving data to " & Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData))
                     iosFileWriter = New System.IO.StreamWriter(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData) & "\rawdata.txt")
