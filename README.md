@@ -6,6 +6,8 @@ This project is heavily hampered by the fact that only Steam seems to have a pub
 
 * Steam: IMPLEMENTED
 * GOG: Possibly usable: https://gogapidocs.readthedocs.io/en/latest/
+* Google Play: Possibly importable from Google Takeout data
+* Humble Bundle: Possibly usable: https://www.schiff.io/projects/humble-bundle-api
 * Battle.net App: NEED API
 * Discord Store: NEED API
 * Epic Games Store: NEED API
