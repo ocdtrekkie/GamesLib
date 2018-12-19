@@ -24,6 +24,8 @@ Module Module1
         sqlConnection.Open()
         sqlCreateDbCommand.ExecuteNonQuery()
 
+        LoadTables()
+
         While intMenuOption <> 3
             If My.Settings.SteamID = "" Then
                 Console.WriteLine("Enter your Steam ID:")
