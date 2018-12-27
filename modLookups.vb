@@ -7,7 +7,9 @@
             .Add("1111208428", "409720") 'BioShock 2 Remastered
             .Add("1207658705", "15700") 'Oddworld: Abe's Oddysee
             .Add("1207658712", "40950") 'Stronghold HD
+            .Add("1207658805", "214170") 'Divine Divinity
             .Add("1207658807", "3830") 'Psychonauts
+            .Add("1207658861", "1930") 'Two Worlds Epic Edition
             .Add("1207658924", "20900") 'The Witcher: Enhanced Edition Director's Cut
             .Add("1207658927", "327940") 'Dragonsphere
             .Add("1207658945", "285310") 'Roller Coaster Tycoon: Deluxe
@@ -24,9 +26,11 @@
             .Add("1207659753", "70300") 'VVVVVV
             .Add("1207659833", "233720") 'Surgeon Simulator
             .Add("1207660064", "238320") 'Outlast
+            .Add("1207660253", "65300") 'Dustforce DX
             .Add("1207660413", "234650") 'Shadowrun Returns
             .Add("1207660893", "226840") 'Age of Wonders 3
             .Add("1207660913", "300550") 'Shadowrun: Dragonfall - Director's Cut
+            .Add("1207663083", "273570") 'Descent
             .Add("1207664803", "223830") 'Xenonauts
             .Add("1207666433", "262000") 'Gabriel Knight: Sins of the Father - 20th Anniversary Edition
             .Add("1207666503", "237850") 'Dreamfall Chapters: The Final Cut
@@ -36,6 +40,7 @@
             .Add("1308320804", "367520") 'Hollow Knight
             .Add("1421064427", "304650") 'Sunless Sea
             .Add("1427108887", "359650") 'Star Trek: 25th Anniversary
+            .Add("1428928921", "23420") 'Europa Universalis: Rome - Gold Edition
             .Add("1429089605", "364800") 'Star Trek: Judgment Rites
             .Add("1429170550", "364810") 'Star Trek: Starfleet Academy
             .Add("1429172763", "364820") 'Star Trek: Starfleet Command Gold Edition
@@ -48,9 +53,12 @@
             .Add("1440166342", "38400") 'Fallout
             .Add("1440166436", "38410") 'Fallout 2
             .Add("1441974651", "233450") 'Prison Architect
+            .Add("1453374895", "323060") 'Tharsis
             .Add("1457519353", "388880") 'Oxenfree
             .Add("1461061433", "26800") 'Braid
+            .Add("1578931338", "268400") 'Panzer Corps
             .Add("1640424747", "124923") 'The Witcher 3: Wild Hunt - Game of the Year Edition
+            .Add("1744082009", "464590") 'Order of Battle: World War II (U.S. Pacific DLC included in GOG)
             .Add("1949616134", "47810") 'Dragon Age: Origins - Ultimate Edition
             .Add("2114871440", "244160") 'Homeworld Remastered Collection
             .Add("2115713947", "281610") 'Homeworld: Deserts of Kharak
