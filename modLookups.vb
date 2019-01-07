@@ -10,29 +10,42 @@
             .Add("1207658738", "253860") 'Earth 2140 Trilogy
             .Add("1207658739", "253880") 'Earth 2150 Trilogy
             .Add("1207658740", "1900") 'Earth 2160
+            .Add("1207658744", "253920") 'Gorky 17
             .Add("1207658754", "232770") 'POSTAL: Classic and Uncut
+            .Add("1207658797", "270760") 'Realms of Arkania 3: Shadows over Riva
             .Add("1207658805", "214170") 'Divine Divinity
             .Add("1207658807", "3830") 'Psychonauts
+            .Add("1207658817", "33520") 'Tropico Reloaded
             .Add("1207658828", "495700") 'Gabriel Knight: Sins of the Father
             .Add("1207658848", "46500") 'Syberia
             .Add("1207658849", "46510") 'Syberia 2
             .Add("1207658861", "1930") 'Two Worlds Epic Edition
+            .Add("1207658880", "298030") 'Total Annihilation: Commander Pack
+            .Add("1207658882", "46480") 'Still Life
             .Add("1207658914", "2500") 'Shadowgrounds
             .Add("1207658921", "292390") 'Realms of the Haunting
             .Add("1207658924", "20900") 'The Witcher: Enhanced Edition Director's Cut
             .Add("1207658927", "327940") 'Dragonsphere
             .Add("1207658945", "285310") 'Roller Coaster Tycoon: Deluxe
+            .Add("1207658951", "362920") 'Atlantis 2: Beyond Atlantis
             .Add("1207658957", "285330") 'Roller Coaster Tycoon 2: Triple Thrill Pack
+            .Add("1207659007", "46490") 'Still Life 2
             .Add("1207659014", "1500") 'Darwinia
             .Add("1207659020", "35700") 'Trine Enchanted Edition
             .Add("1207659032", "2700") 'Roller Coaster Tycoon 3: Platinum
+            .Add("1207659056", "6253") 'Tropico 3: Gold Edition
             .Add("1207659069", "41500") 'Torchlight
             .Add("1207659075", "1520") 'DEFCON
+            .Add("1207659086", "35460") 'The Ball
+            .Add("1207659087", "211180") 'Unmechanical: Extended
             .Add("1207659102", "212680") 'FTL
+            .Add("1207659112", "270770") 'Etherlords
             .Add("1207659117", "230700") 'La-Mulana
             .Add("1207659122", "222140") 'Puddle
+            .Add("1207659132", "115100") 'Costume Quest
             .Add("1207659145", "115110") 'Stacking
             .Add("1207659160", "234370") 'Shattered Haven
+            .Add("1207659167", "270790") 'Etherlords 2
             .Add("1207659172", "238210") 'System Shock 2
             .Add("1207659200", "233470") 'Evoland
             .Add("1207659221", "25600") 'Eschalon: Book I
@@ -52,6 +65,7 @@
             .Add("1207659953", "245470") 'Democracy 3
             .Add("1207660043", "247660") 'Deadly Premonition: Director's Cut
             .Add("1207660064", "238320") 'Outlast
+            .Add("1207660104", "255870") 'PixelJunk Shooter
             .Add("1207660173", "247870") 'Redshirt
             .Add("1207660253", "65300") 'Dustforce DX
             .Add("1207660413", "234650") 'Shadowrun Returns
@@ -91,6 +105,7 @@
             .Add("1429698467", "274270") 'Not a Hero
             .Add("1429864849", "220200") 'Kerbal Space Program
             .Add("1430740458", "9480") 'Saints Row 2
+            .Add("1430740694", "17933") 'Saints Row: The Third - The Full Package
             .Add("1434021265", "324800") 'Shadow Warrior 2
             .Add("1434623024", "320340") 'Cosmonautica
             .Add("1435329098", "296970") 'Renowned Explorers: International Society
@@ -122,11 +137,14 @@
             .Add("1578931338", "268400") 'Panzer Corps
             .Add("1640424747", "124923") 'The Witcher 3: Wild Hunt - Game of the Year Edition
             .Add("1677885333", "474750") 'Reigns
+            .Add("1724299977", "48000") 'LIMBO
             .Add("1744082009", "464590") 'Order of Battle: World War II (U.S. Pacific DLC included in GOG)
             .Add("1856356886", "778390") 'Corpse Party: Book of Shadows
             .Add("1949616134", "47810") 'Dragon Age: Origins - Ultimate Edition
             .Add("1958228073", "200710") 'Torchlight II
             .Add("1964276929", "230190") 'War for the Overworld
+            .Add("1978178686", "301910") 'Saints Row: Gat out of Hell
+            .Add("2037689757", "314580") 'Saints Row IV: Game of the Century Edition
             .Add("2114871440", "244160") 'Homeworld Remastered Collection
             .Add("2115713947", "281610") 'Homeworld: Deserts of Kharak
             .Add("2133872469", "542050") 'Forgotton Anne
