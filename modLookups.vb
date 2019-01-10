@@ -6,6 +6,7 @@
             .Add("6", "38450") 'MDK
             .Add("1111208428", "409720") 'BioShock 2 Remastered
             .Add("1207658705", "15700") 'Oddworld: Abe's Oddysee
+            .Add("1207658707", "33600") 'Broken Sword 2: The Smoking Mirror - Remastered
             .Add("1207658712", "40950") 'Stronghold HD
             .Add("1207658738", "253860") 'Earth 2140 Trilogy
             .Add("1207658739", "253880") 'Earth 2150 Trilogy
@@ -22,10 +23,13 @@
             .Add("1207658861", "1930") 'Two Worlds Epic Edition
             .Add("1207658880", "298030") 'Total Annihilation: Commander Pack
             .Add("1207658882", "46480") 'Still Life
+            .Add("1207658898", "33100") 'Alien Shooter + Expansions
+            .Add("1207658900", "57640") 'Broken Sword: Director's Cut
             .Add("1207658914", "2500") 'Shadowgrounds
             .Add("1207658921", "292390") 'Realms of the Haunting
             .Add("1207658924", "20900") 'The Witcher: Enhanced Edition Director's Cut
             .Add("1207658927", "327940") 'Dragonsphere
+            .Add("1207658930", "20920") 'The Witcher 2: Assassins of Kings - Enhanced Edition
             .Add("1207658945", "285310") 'Roller Coaster Tycoon: Deluxe
             .Add("1207658951", "362920") 'Atlantis 2: Beyond Atlantis
             .Add("1207658957", "285330") 'Roller Coaster Tycoon 2: Triple Thrill Pack
@@ -44,6 +48,7 @@
             .Add("1207659122", "222140") 'Puddle
             .Add("1207659132", "115100") 'Costume Quest
             .Add("1207659145", "115110") 'Stacking
+            .Add("1207659147", "235660") 'Eador: Genesis
             .Add("1207659160", "234370") 'Shattered Haven
             .Add("1207659167", "270790") 'Etherlords 2
             .Add("1207659172", "238210") 'System Shock 2
@@ -68,7 +73,10 @@
             .Add("1207660104", "255870") 'PixelJunk Shooter
             .Add("1207660173", "247870") 'Redshirt
             .Add("1207660253", "65300") 'Dustforce DX
+            .Add("1207660363", "33130") 'Zombie Shooter
             .Add("1207660413", "234650") 'Shadowrun Returns
+            .Add("1207660503", "33180") 'Zombie Shooter 2
+            .Add("1207660563", "248820") 'Risk of Rain
             .Add("1207660593", "23600") 'Depths of Peril
             .Add("1207660893", "226840") 'Age of Wonders 3
             .Add("1207660913", "300550") 'Shadowrun: Dragonfall - Director's Cut
@@ -81,11 +89,13 @@
             .Add("1207664623", "255960") 'Bad Mojo Redux
             .Add("1207664803", "223830") 'Xenonauts
             .Add("1207665323", "40400") 'AI War: Fleet Command
+            .Add("1207665873", "264080") 'Vangers
             .Add("1207666093", "283290") 'Nosferatu: Wrath of Malachi
             .Add("1207666183", "37000") 'The Void
             .Add("1207666433", "262000") 'Gabriel Knight: Sins of the Father - 20th Anniversary Edition
             .Add("1207666453", "326230") 'Smugglers V: Invasion
             .Add("1207666503", "237850") 'Dreamfall Chapters: The Final Cut
+            .Add("1207666883", "303800") 'The Witcher Adventure Game
             .Add("1207666953", "304480") 'The Last Federation - Betrayed Hope
             .Add("1207667183", "316790") 'Grim Fandango Remastered
             .Add("1207667203", "313130") 'Metrocide
@@ -93,6 +103,7 @@
             .Add("1256894029", "493530") 'Layers of Fear: Inheritance
             .Add("1269268081", "409710") 'BioShock Remastered
             .Add("1308320804", "367520") 'Hollow Knight
+            .Add("1327823064", "237350") 'Frozen Cortex
             .Add("1421064427", "304650") 'Sunless Sea
             .Add("1424100574", "266510") 'Hand of Fate
             .Add("1426246476", "7830") 'Men of War
@@ -106,9 +117,11 @@
             .Add("1429864849", "220200") 'Kerbal Space Program
             .Add("1430740458", "9480") 'Saints Row 2
             .Add("1430740694", "17933") 'Saints Row: The Third - The Full Package
+            .Add("1433238834", "270910") 'Worms World Party Remastered
             .Add("1434021265", "324800") 'Shadow Warrior 2
             .Add("1434623024", "320340") 'Cosmonautica
             .Add("1435329098", "296970") 'Renowned Explorers: International Society
+            .Add("1436434037", "286690") 'Metro 2033 Redux
             .Add("1436866438", "346940") 'Shadowrun Hong Kong - Extended Edition
             .Add("1437564865", "308420") 'Ziggurat
             .Add("1438167237", "310510") 'Deathtrap
@@ -122,9 +135,11 @@
             .Add("1441032629", "2800") 'X2: The Threat
             .Add("1441869560", "274350") 'Dropsy
             .Add("1441974651", "233450") 'Prison Architect
+            .Add("1443428641", "339800") 'HuniePop
             .Add("1445852217", "384110") 'Pathologic Classic HD
             .Add("1446796759", "414310") 'The Last Federation - The Lost Technologies
             .Add("1449856523", "514900") '>observer_
+            .Add("1452598881", "211820") 'Starbound
             .Add("1453282796", "384490") 'Necropolis: Brutal Edition
             .Add("1453374895", "323060") 'Tharsis
             .Add("1455107123", "391720") 'Layers of Fear
