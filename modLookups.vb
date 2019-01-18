@@ -20,6 +20,7 @@
             .Add("1207658828", "495700") 'Gabriel Knight: Sins of the Father
             .Add("1207658848", "46500") 'Syberia
             .Add("1207658849", "46510") 'Syberia 2
+            .Add("1207658858", "410990") 'Master of Orion 3
             .Add("1207658861", "1930") 'Two Worlds Epic Edition
             .Add("1207658880", "298030") 'Total Annihilation: Commander Pack
             .Add("1207658882", "46480") 'Still Life
@@ -45,7 +46,9 @@
             .Add("1207659102", "212680") 'FTL
             .Add("1207659112", "270770") 'Etherlords
             .Add("1207659117", "230700") 'La-Mulana
+            .Add("1207659118", "219150") 'Hotline Miami
             .Add("1207659122", "222140") 'Puddle
+            .Add("1207659129", "218410") 'Defender's Quest
             .Add("1207659132", "115100") 'Costume Quest
             .Add("1207659145", "115110") 'Stacking
             .Add("1207659147", "235660") 'Eador: Genesis
@@ -62,6 +65,7 @@
             .Add("1207659259", "57300") 'Amnesia: The Dark Descent
             .Add("1207659443", "239200") 'Amnesia: A Machine for Pigs
             .Add("1207659453", "11200") 'Shadowgrounds Survivor
+            .Add("1207659573", "233130") 'Shadow Warrior (2013)
             .Add("1207659593", "245390") 'I Have No Mouth And I Must Scream
             .Add("1207659743", "37400") 'Time Gentlemen, Please! + Ben There, Dan That!
             .Add("1207659753", "70300") 'VVVVVV
@@ -75,6 +79,7 @@
             .Add("1207660253", "65300") 'Dustforce DX
             .Add("1207660363", "33130") 'Zombie Shooter
             .Add("1207660413", "234650") 'Shadowrun Returns
+            .Add("1207660433", "249590") 'Teslagrad
             .Add("1207660503", "33180") 'Zombie Shooter 2
             .Add("1207660563", "248820") 'Risk of Rain
             .Add("1207660593", "23600") 'Depths of Peril
@@ -88,12 +93,15 @@
             .Add("1207664553", "284390") 'The Last Door: Collector's Edition
             .Add("1207664623", "255960") 'Bad Mojo Redux
             .Add("1207664803", "223830") 'Xenonauts
+            .Add("1207665033", "274250") 'OlliOlli
             .Add("1207665323", "40400") 'AI War: Fleet Command
             .Add("1207665873", "264080") 'Vangers
             .Add("1207666093", "283290") 'Nosferatu: Wrath of Malachi
             .Add("1207666183", "37000") 'The Void
+            .Add("1207666353", "228280") 'Baldur's Gate: Enhanced Edition
             .Add("1207666433", "262000") 'Gabriel Knight: Sins of the Father - 20th Anniversary Edition
             .Add("1207666453", "326230") 'Smugglers V: Invasion
+            .Add("1207666463", "248610") 'Door Kickers
             .Add("1207666503", "237850") 'Dreamfall Chapters: The Final Cut
             .Add("1207666883", "303800") 'The Witcher Adventure Game
             .Add("1207666953", "304480") 'The Last Federation - Betrayed Hope
@@ -101,11 +109,13 @@
             .Add("1207667203", "313130") 'Metrocide
             .Add("1230412827", "423950") 'Deadlight: Director's Cut
             .Add("1256894029", "493530") 'Layers of Fear: Inheritance
+            .Add("1268757981", "400170") 'The Incredible Adventures of Van Helsing: Final Cut
             .Add("1269268081", "409710") 'BioShock Remastered
             .Add("1308320804", "367520") 'Hollow Knight
             .Add("1327823064", "237350") 'Frozen Cortex
             .Add("1421064427", "304650") 'Sunless Sea
             .Add("1424100574", "266510") 'Hand of Fate
+            .Add("1424442317", "253390") 'Hot Tin Roof: The Cat That Wore A Fedora
             .Add("1426246476", "7830") 'Men of War
             .Add("1427108887", "359650") 'Star Trek: 25th Anniversary
             .Add("1428928921", "23420") 'Europa Universalis: Rome - Gold Edition
@@ -117,6 +127,7 @@
             .Add("1429864849", "220200") 'Kerbal Space Program
             .Add("1430740458", "9480") 'Saints Row 2
             .Add("1430740694", "17933") 'Saints Row: The Third - The Full Package
+            .Add("1431943502", "313080") 'The Masterplan
             .Add("1433238834", "270910") 'Worms World Party Remastered
             .Add("1434021265", "324800") 'Shadow Warrior 2
             .Add("1434623024", "320340") 'Cosmonautica
@@ -137,12 +148,15 @@
             .Add("1441974651", "233450") 'Prison Architect
             .Add("1443428641", "339800") 'HuniePop
             .Add("1445852217", "384110") 'Pathologic Classic HD
+            .Add("1446131634", "2840") 'X: Gold
             .Add("1446796759", "414310") 'The Last Federation - The Lost Technologies
             .Add("1449856523", "514900") '>observer_
             .Add("1452598881", "211820") 'Starbound
             .Add("1453282796", "384490") 'Necropolis: Brutal Edition
             .Add("1453374895", "323060") 'Tharsis
+            .Add("1454319762", "365160") 'Kona
             .Add("1455107123", "391720") 'Layers of Fear
+            .Add("1455645883", "2870") 'X Rebirth
             .Add("1457355665", "402530") 'The Last Door: Season 2 - Collector's Edition
             .Add("1457519353", "388880") 'Oxenfree
             .Add("1458729425", "382140") 'SKYHILL
@@ -155,6 +169,7 @@
             .Add("1724299977", "48000") 'LIMBO
             .Add("1744082009", "464590") 'Order of Battle: World War II (U.S. Pacific DLC included in GOG)
             .Add("1856356886", "778390") 'Corpse Party: Book of Shadows
+            .Add("1929434313", "269650") 'Dex
             .Add("1949616134", "47810") 'Dragon Age: Origins - Ultimate Edition
             .Add("1958228073", "200710") 'Torchlight II
             .Add("1964276929", "230190") 'War for the Overworld
