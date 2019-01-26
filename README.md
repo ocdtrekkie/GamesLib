@@ -15,3 +15,4 @@ This project is heavily hampered by the fact that only Steam seems to have a pub
 * Origin: NEED API
 * Twitch Store: NEED API
 * Uplay Store: NEED API
+* Viveport: NEED API
